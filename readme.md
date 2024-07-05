@@ -48,13 +48,7 @@
 
 ## Overview
 
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+Explore various hero and card designs, both static and animated, showcasing distinct styles and themes.
 
 ### Key Components
 - MultiPage Website/Single Page Website
@@ -78,7 +72,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Hero-Card
 └─ assets
 |   └─ css
 |   |   └─ style.css
