@@ -113,8 +113,8 @@ WD-ProjectName
 |     |  └─ index.html
 |     └─ hero-5
 |        └─ assets
-|     |  |  └─ css
-|     |  └─ index.html
+|        |  └─ css
+|        └─ index.html
 └─ index.html
 └─ readme.md
 ```
