@@ -21,8 +21,6 @@
 
 ---
 
-<br />
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -85,19 +83,38 @@ WD-ProjectName
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+|       └─ fileWith.jpeg/.jpg/.webp/.png
 └─ pages
-|  └─ pageName
+|  └─ card-gallery
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |     └─ fileWith.jpeg/.jpg/.webp/.png
+|  |  └─ index.html
+|  └─ hero-gallery
 |     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+|     |     └─ fileWith.jpeg/.jpg/.webp/.png
+|     └─ hero-1
+|     |  └─ assets
+|     |     └─ css
+|     └─ hero-2
+|     |  └─ assets
+|     |  |  └─ css
+|     |  └─ index.html
+|     └─ hero-3
+|     |  └─ assets
+|     |  |  └─ css
+|     |  └─ index.html
+|     └─ hero-4
+|     |  └─ assets
+|     |  |  └─ css
+|     |  └─ index.html
+|     └─ hero-5
+|        └─ assets
+|     |  |  └─ css
+|     |  └─ index.html
 └─ index.html
 └─ readme.md
 ```
