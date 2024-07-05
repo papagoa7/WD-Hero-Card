@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  Hero & Cards
+
 </div>
 
 <br />
@@ -22,8 +22,6 @@
 ---
 
 <br />
-<br />
-
 
 <details>
   <summary>Table of Contents</summary>
